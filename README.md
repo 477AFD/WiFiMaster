@@ -9,4 +9,4 @@ Wifi 5 Key: `spX220D_`<br>
 # What could I use for this key?
 Unfortunately, this key is not usable except for our WiFi router.
 
-IP address: <a href="http://192.168.1.1">`192.168.1.1`</a>
+IP address: <a href="https://192.168.1.1">`192.168.1.1`</a>
